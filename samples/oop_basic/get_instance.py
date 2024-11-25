@@ -4,11 +4,15 @@
 class Animal(object):
     pass
 
+
 class Dog(Animal):
     pass
 
+
+# 哈士奇
 class Husky(Dog):
     pass
+
 
 a = Animal()
 d = Dog()
